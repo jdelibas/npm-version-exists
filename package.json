@@ -1,0 +1,15 @@
+{
+  "name": "npm-version-exists",
+  "version": "0.0.1",
+  "description": "Check if the specified package version exists on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "James Delibas <jdelibas@gmail.com> (https://jamjar.rocks/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
